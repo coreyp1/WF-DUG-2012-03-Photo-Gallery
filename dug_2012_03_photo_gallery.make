@@ -26,6 +26,9 @@ projects[references][version] = "2.0"
 projects[nodereference_url][subdir] = "contrib"
 projects[nodereference_url][version] = "1.12"
 
+projects[strongarm][subdir] = "contrib"
+projects[strongarm][version] = "2.0-beta5"
+
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-rc1"
 

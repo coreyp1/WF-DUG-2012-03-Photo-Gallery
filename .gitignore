@@ -1,13 +1,14 @@
 *.php
 *.txt
 
-includes
-misc
-modules
-profiles
-scripts
-themes
-sites/*/modules/contrib
+/includes
+/misc
+/modules
+/profiles
+/scripts
+/themes
+/sites/*/modules/contrib
+/sites/all/themes
 .htaccess
 web.config
 
