@@ -1,0 +1,19 @@
+*.php
+*.txt
+
+includes
+misc
+modules
+profiles
+scripts
+themes
+sites/*/modules/contrib
+.htaccess
+web.config
+
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private

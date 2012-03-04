@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DUG 2012-03 Photo Gallery feature.
+ */
+
+include_once('dug_2012_03_photo_gallery.features.inc');
